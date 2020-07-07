@@ -1,0 +1,10 @@
+
+    .bg {
+        background-image: url("/assets/images/background.jpg");
+        height: 30vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+        }
+    
